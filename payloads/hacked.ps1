@@ -8,10 +8,9 @@ __   __            _   _                 ___                  _  _         _    
 
 Write-Host ""
 Write-Host "==========================================================" -ForegroundColor Red
-Write-Host "           SYSTEM COMPROMISED BY ESP32 BLUEDUCKY          " -ForegroundColor White -BackgroundColor DarkRed
+Write-Host "           SYSTEM COMPROMISED BY ESP32 BLUEDUCKY   PaCK       " -ForegroundColor White -BackgroundColor DarkRed
 Write-Host "==========================================================" -ForegroundColor Red
 Write-Host ""
 Write-Host "Don't worry, this is just a friendly prank! :)" -ForegroundColor Yellow
 Write-Host ""
-Start-Sleep -Seconds 10
-Exit
+
