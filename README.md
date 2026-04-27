@@ -66,8 +66,9 @@ Follow these simple steps to compile and flash the code to your ESP32.
 
 ### Step 2: Install the Modified Library
 This project uses a specifically modified library for Bluetooth functionality.
-1. Download `ESP32_BLE_Combo_Keyboard_Mouse_Modified.zip` from this repository.
-2. In Arduino IDE, go to `Sketch` > `Include Library` > `Add .ZIP Library...` and select the downloaded file.
+1. Go to the **[Releases](../../releases/latest)** page of this repository.
+2. Download the `ESP32_BLE_Combo_Keyboard_Mouse_Modified.zip` file attached in the assets.
+3. In Arduino IDE, go to `Sketch` > `Include Library` > `Add .ZIP Library...` and select the downloaded file.
 
 ### Step 3: Flash the Code
 1. Make sure `index_html.h` is kept in the EXACT SAME FOLDER as your `ESP32_WiFi_BLE_HID.ino` file.
