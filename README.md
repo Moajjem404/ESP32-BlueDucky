@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>⚡ ESP32 BlueDucky </h1>
+  <h1>⚡ ESP32 BlueDucky ⚡</h1>
   <p><strong>A Stealthy, Wireless Penetration Testing & Automation Tool</strong></p>
   
   <p>
