@@ -64,8 +64,8 @@ Follow these simple steps to compile and flash the code to your ESP32.
    ```
 3. Open `Tools` > `Board` > `Boards Manager`, search for **esp32**, and install it (Version 2.0.11 or later).
 
-### Step 2: Install the Modified Library
-This project uses a specifically modified library for Bluetooth functionality.
+### Step 2: Install Required Libraries
+This project relies on standard built-in ESP32 libraries (`WiFi.h`, `WebServer.h`, `DNSServer.h`), so you do NOT need to download them separately. However, you MUST install our custom Bluetooth library.
 1. Go to the **[Releases](../../releases/latest)** page of this repository.
 2. Download the `ESP32_BLE_Combo_Keyboard_Mouse_Modified.zip` file attached in the assets.
 3. In Arduino IDE, go to `Sketch` > `Include Library` > `Add .ZIP Library...` and select the downloaded file.
