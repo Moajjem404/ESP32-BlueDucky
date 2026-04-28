@@ -112,7 +112,7 @@ This project relies on standard built-in ESP32 libraries (`WiFi.h`, `WebServer.h
 
 If you found this project helpful, cool, or interesting, please consider giving it a **Star (⭐)** on GitHub! It helps the project grow and motivates me to add more awesome features. 
 
-**[👉 Follow Me on GitHub](https://github.com/Moajjem404)** for more cool tools, IoT projects, and updates!
+**[👉 Follow Me on GitHub](https://github.com/Moajjem404)** for more cool tools,  IoT projects, and updates!
 
 <p align="center">
   <i>"With great power comes great responsibility."</i><br>
