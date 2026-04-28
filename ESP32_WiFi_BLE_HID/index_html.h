@@ -19,7 +19,7 @@ const char index_html[] PROGMEM = R"rawliteral(
     .page.active{display:flex;}
     @keyframes fade{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:translateY(0)}}
     
-    /* Keyboard */
+    /* Keyboard */ 
     .kb-sec{background:var(--glass);backdrop-filter:blur(10px);border:1px solid var(--border);border-radius:12px;padding:10px;display:flex;flex-direction:column;gap:5px;}
     .row{display:flex;gap:5px;}
     .k{flex:1;background:rgba(255,255,255,0.05);border:1px solid rgba(255,255,255,0.1);border-radius:8px;padding:12px 0;text-align:center;font-size:0.85rem;font-weight:600;transition:.1s;min-width:0;cursor:pointer;}
